@@ -12,4 +12,3 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=MahiraModi&&show_icons=true&title_color=e98074&icon_color=aee6e6&text_color=f3eac2&bg_color=17252A&hide=prs">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahiramodi&layout=compact&title_color=f3eac2&text_color=c5a880&bg_color=393e46">
