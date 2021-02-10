@@ -1,4 +1,4 @@
-### Hi, I'm Mahira Modi 👋
+### Hi, I'm Mahira Modi 👋 <span align="right"> <img src="https://komarev.com/ghpvc/?username=Mahiramodi" alt="Mahira Modi" /> </span>
 
 - 🔭 I’m currently working on -MERN stack development
 - 🌱 I’m currently learning -Express and MongoDB 
